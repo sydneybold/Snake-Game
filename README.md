@@ -1,2 +1,2 @@
-###
+# My snake game project!
 
